@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/https//:andrewmuller22.github.io/monsters-rolodex/static/css/main.da6731d7.css",
-    "main.js": "/https//:andrewmuller22.github.io/monsters-rolodex/static/js/main.fb47d5d8.js",
-    "static/js/787.e4e9b7ff.chunk.js": "/https//:andrewmuller22.github.io/monsters-rolodex/static/js/787.e4e9b7ff.chunk.js",
-    "index.html": "/https//:andrewmuller22.github.io/monsters-rolodex/index.html",
-    "main.da6731d7.css.map": "/https//:andrewmuller22.github.io/monsters-rolodex/static/css/main.da6731d7.css.map",
-    "main.fb47d5d8.js.map": "/https//:andrewmuller22.github.io/monsters-rolodex/static/js/main.fb47d5d8.js.map",
-    "787.e4e9b7ff.chunk.js.map": "/https//:andrewmuller22.github.io/monsters-rolodex/static/js/787.e4e9b7ff.chunk.js.map"
+    "main.css": "/monsters-rolodex/static/css/main.da6731d7.css",
+    "main.js": "/monsters-rolodex/static/js/main.5050d6a8.js",
+    "static/js/787.e4e9b7ff.chunk.js": "/monsters-rolodex/static/js/787.e4e9b7ff.chunk.js",
+    "index.html": "/monsters-rolodex/index.html",
+    "main.da6731d7.css.map": "/monsters-rolodex/static/css/main.da6731d7.css.map",
+    "main.5050d6a8.js.map": "/monsters-rolodex/static/js/main.5050d6a8.js.map",
+    "787.e4e9b7ff.chunk.js.map": "/monsters-rolodex/static/js/787.e4e9b7ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.da6731d7.css",
-    "static/js/main.fb47d5d8.js"
+    "static/js/main.5050d6a8.js"
   ]
 }
